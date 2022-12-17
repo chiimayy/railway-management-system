@@ -1,2 +1,2 @@
 # railway-management-system
-This project is purely hard coded using html,css,python,javascript, bootstrap for frontend and used mysql 
+This project is made using django framework. For front end, technologies used are html, css, java, javascript. 
